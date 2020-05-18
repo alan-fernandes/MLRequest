@@ -1,8 +1,5 @@
 # MLRequest
-> Api de Consulta a Produtos no Mercado Livre.
-
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
+> Api NodeJs para Consulta a Produtos no Mercado Livre.
 
 
 ## Instalação
@@ -34,7 +31,7 @@ Retorno esperado:
 ````
 
 
-## Development setup
+## Configurações de Desenvolvimento
 
 TTD - Monitorar testes em tempo de produção
 
@@ -42,11 +39,11 @@ TTD - Monitorar testes em tempo de produção
 npm  run secure-mode
 ```
 
-## Release History
+## Release
 
 * 0.0.1
     * Tudo começou aqui.
 
-## Meta
+## Dados
 
-Alan Fernande – [@Linkedin](https://www.linkedin.com/in/alan-fernandes-78153a22/) – alan@alanfernandes.com.br
+Alan Fernandes – [@Linkedin](https://www.linkedin.com/in/alan-fernandes-78153a22/) – alan@alanfernandes.com.br
